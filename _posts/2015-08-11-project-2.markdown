@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Bedroom Party"
+description: A virtual bedroom
+date:   2015-08-11 10:34:07
+categories: HTML CSS Javascript API jquery Ruby Sinatra
+---

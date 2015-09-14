@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Periodic Table"
+description: An interactive Periodic Table
+date:   2015-08-30 10:34:07
+categories: HTML CSS SASS Javascript jQuery Backbone Ruby on Rails RESTful API
+---
