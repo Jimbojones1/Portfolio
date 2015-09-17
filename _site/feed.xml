@@ -6,8 +6,8 @@
 </description>
     <link>https://github.com/Jimbojones1/</link>
     <atom:link href="https://github.com/Jimbojones1/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Sep 2015 11:23:49 -0500</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2015 11:23:49 -0500</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2015 11:32:02 -0500</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2015 11:32:02 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -59,7 +59,22 @@
     
       <item>
         <title>Periodic Table</title>
-        <description>
+        <description>&lt;p&gt;&lt;img src=&quot;http://screenlicious.com/wp-content/uploads/2015/03/1019343-paint-splash-690x388.jpg&quot; alt=&quot;http://screenlicious.com/wp-content/uploads/2015/03/1019343-paint-splash-690x388.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;summary-of-technology-used&quot;&gt;Summary of Technology Used&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HTML&lt;/li&gt;
+  &lt;li&gt;Less&lt;/li&gt;
+  &lt;li&gt;css&lt;/li&gt;
+  &lt;li&gt;javascript&lt;/li&gt;
+  &lt;li&gt;angular&lt;/li&gt;
+  &lt;li&gt;node&lt;/li&gt;
+  &lt;li&gt;express&lt;/li&gt;
+  &lt;li&gt;mongo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;live-website&quot;&gt;Live Website&lt;/h2&gt;
 </description>
         <pubDate>Sun, 30 Aug 2015 05:34:07 -0500</pubDate>
         <link>https://github.com/Jimbojones1/html/css/sass/javascript/jquery/backbone/ruby/on/rails/restful/api/2015/08/30/project-3.html</link>
@@ -92,7 +107,22 @@
     
       <item>
         <title>Bedroom Party</title>
-        <description>
+        <description>&lt;p&gt;&lt;img src=&quot;http://screenlicious.com/wp-content/uploads/2015/03/1019343-paint-splash-690x388.jpg&quot; alt=&quot;http://screenlicious.com/wp-content/uploads/2015/03/1019343-paint-splash-690x388.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;summary-of-technology-used&quot;&gt;Summary of Technology Used&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HTML&lt;/li&gt;
+  &lt;li&gt;Less&lt;/li&gt;
+  &lt;li&gt;css&lt;/li&gt;
+  &lt;li&gt;javascript&lt;/li&gt;
+  &lt;li&gt;angular&lt;/li&gt;
+  &lt;li&gt;node&lt;/li&gt;
+  &lt;li&gt;express&lt;/li&gt;
+  &lt;li&gt;mongo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;live-website&quot;&gt;Live Website&lt;/h2&gt;
 </description>
         <pubDate>Tue, 11 Aug 2015 05:34:07 -0500</pubDate>
         <link>https://github.com/Jimbojones1/html/css/javascript/api/jquery/ruby/sinatra/2015/08/11/project-2.html</link>
@@ -117,7 +147,20 @@
     
       <item>
         <title>El&#39;Patron</title>
-        <description>
+        <description>&lt;p&gt;&lt;img src=&quot;images/PatronMenu.png&quot; alt=&quot;images/PatronMenu.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;this-is-my-very-first-website&quot;&gt;This is my very first website.&lt;/h2&gt;
+
+&lt;h2 id=&quot;summary-of-technology-used&quot;&gt;Summary of Technology Used&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HTML5&lt;/li&gt;
+  &lt;li&gt;css&lt;/li&gt;
+  &lt;li&gt;css&lt;/li&gt;
+  &lt;li&gt;javascript&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;live-website&quot;&gt;Live Website&lt;/h2&gt;
 </description>
         <pubDate>Tue, 23 Jun 2015 05:34:07 -0500</pubDate>
         <link>https://github.com/Jimbojones1/html/css/javascript/jquery/2015/06/23/project-1.html</link>
